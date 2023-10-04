@@ -1,0 +1,134 @@
+1.3.2 Geometrical Representation of Vectors in 1-
+3 dimensions . . . . . . . . . . . . . . . . . . . . . . . . . 9
+3 dimensions . . . . . . . . . . . . . . . . 9
+4.3.1 Components of a vector in terms of Unit
+Vectors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+Vectors . . . . . . . . . . . . . . . . . . . . 26
+6.3.2 Expressing Scalar Product Of Two Vectors
+In Terms Of The Unit Vector I, j, k. . . . . . . . . . . . . 40
+In Terms Of The Unit Vector I, j, k. . . . 40
+7.3.2 Expressing Vector Product of two Vectors in Terms of the Unit Vectors i,j
+and k. . . . . . . . . . . . . . . . . . . . . . . . . . . . 46
+8.3.3 Distance between two Points and Midpoint
+of two Points . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+of two Points . . . . . . . . . . . . . . . . 51
+8.3.4 Gradient (gradient, angle of slope, and equa-
+tion of a straight line). . . . . . . . . . . . . . . . . . . . . . . . 54
+tion of a straight line). . . . . . . . . . . . 54
+10.3.4 Shifting the vertex of a parabola from the
+origin. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88
+origin. . . . . . . . . . . . . . . . . . . . . 88
+11.7 References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 104
+Wish you the best of luck as you read through this courseMAT 103
+1 Vectors 8
+1.7 References . . . . . . . . . . . . . . . . . . . . . . 13
+2 Addition of Vectors 14
+2.6 References . . . . . . . . . . . . . . . . . . . . . . 18
+3 Components of a Given Vector 19
+3.7 References . . . . . . . . . . . . . . . . . . . . . . 24
+and Vectors in Space 25
+4.7 References . . . . . . . . . . . . . . . . . . . . . . 31
+5 Direction Cosines 32
+5.6 References . . . . . . . . . . . . . . . . . . . . . . 35
+6 Scalar Product of two vectors 36
+6.7 References . . . . . . . . . . . . . . . . . . . . . . 42
+7 Vector Product of Two Vectors 43
+7.3.2 Expressing Vector Product of two Vectors
+in Terms of the Unit Vectors i,j and k. . . 46
+7.7 References . . . . . . . . . . . . . . . . . . . . . . 48
+8 Loci 49
+8.7 References . . . . . . . . . . . . . . . . . . . . . . 66
+9 Coordinate Geometry (Circle) 67
+9.7 References . . . . . . . . . . . . . . . . . . . . . . 81
+10 Parabola 82
+10.6 References . . . . . . . . . . . . . . . . . . . . . . 92
+11 Ellipse and Hyperbola 93
+11.7 References . . . . . . . . . . . . . . . . . . . . . . 104
+71
+1.7 References
+132
+2.2 Main Content
+r2 + 402 + 302 = 1600 + 900 = 2500
+2.6 References
+183
+3.7 References
+254
+4.3.1 Components of a vector in terms of Unit Vectors
+1 2 1 2
+1 2
+1 2 3
+1 2 3
+1 2 3
+1 2 3
+1 2 3
+4.3.2 Vectors in Space
+OP 2 = a2 + b2 + c2
+c2
+=⇒ |P Q| = 52 + 22 + 42 = 2 5 + 4 + 16 = 4 5 = 3 5
+4.5 Summary
+r = a2 + b2 + c2
+4.7 References
+325
+5.3.1 Direction Cosines
+Also a2 + b2 + c2 = r2
+=⇒ r2 cos2 α + r2 cos2 β + r2 cos2 γ = r2
+r2 (cos2 α+cos2 β+cos2 γ r2
+r2 r2
+cos2 α + cos2 β + cos2 r = 1
+Then cos2 α + cos2 β + cos2 γ = 1 ⇐⇒ l2 + m2 + n2 = 1
+l = a , m = b , n = c and of course r = a2 + b2 + c2
+r = a2 + b2 + c2 = 22 + 42 + (−3)2 = 29
+l = a = √ 2
+r 29
+m = b = √ 4
+r 29
+29 2 4 −3
+29 29 29
+5.4 Summary
+you have that l = a , m = b , n = c , l2 + m2 + n2 = 1
+r = a2 + b2 + c2
+5.6 References
+356
+6.3.1 Scalar product of two vectors
+= 10 x 13 x 0.5075
+= 65.98
+= 16 x 9 x 0 = 0
+a .b + a .b = 9 x 4 + 2 x 8 + 7 x 10
+=⇒ a.b = 122
+|a| = 42 + 82 + 102 = 180
+Similarly, |b| = 92 + 22 + 72 = 134
+180
+134
+6.3.2 Expressing Scalar Product Of Two Vectors In Terms
+1 2 3
+1 2 3
+1 2 3 1 2 3 1 1 1 2
+1 3 2 1 2 2 2 3 3 1 3 2 3
+1 1 2 2 3 3
+a.b = 3 x 2+ 4 x 1+5 x 7 = 45
+6.5 Summary
+1 2 3 1 2 3
+1 1 2 2 3 3
+6.7 References
+437
+7.3.1 Vector Product of Two Vectors
+From the diagram above, when a and b start at the origin (0, 0
+3
+6
+3
+7.3.2 Expressing Vector Product of two Vectors in Terms
+1 2 3 1 2 3
+1 2 3 1 2 3 1 1 1 2
+1 3 2 1 2 2 2 3 3 1 3 2
+3 3
+Also |i x j| = (1)(1)(sin 90o) = 1
+1 1 1 2 1 3 1 2 2 2 3 3 1
+a 3b 2(−i) + a 3b 3.0
+1 2 1 3 1 2 3 3 1
+3 2 2 3 3 2 3 1 1 3 1 2
+2 3 3 2 1 3 3 1 1 2
+2 1
+Method 2
+1 2 3 2 3 3 2 1 3 3 1 1 2 2 1
+1 2 3
+1 5 − 2

@@ -1,0 +1,184 @@
+3.1.1 LINEAR GRAPH THROUGH THE ORIGIN
+When x=0 then y=0
+Fig. 3.1
+3.1.2 LINEAR GRAPH NOT PASSING THROUGH THE ORIGIN
+Fig. 3.2
+Fig 3.3
+3.1.3 REDUCING NON-LINEAR EQUATION TO LINEAR EQUATION
+T2/S2
+T2
+Fig. 3.4
+∆T 2 Increase in T 2 m = 4 p 2
+1
+1
+Fig. 3.5
+P = k 1
+T2
+T2
+T2
+Fig. 3.6
+Increase in T 2  T 2 4 p 2
+3.1.4 REDUCING TO A LINEAR EQUATION FROM UNKNOWN
+Fig. .3.7
+For example, log 9 = 0.9542
+log 90 = 1.9542
+log 0.5 = 1.6990 = -1 + 0.6990 = -0.3010
+log 0.006 = 3.7781 = -3 + 0.7781 = -2.22
+If the intercept is -2.73
+x=3-2.73=0.27
+\ -2.73 = 3 + 0.2700
+The antilog of 0.2700 = 1.86
+\ Antilog of -2.73 = 1.86 x 10-3
+3.2 DETERMINATION OF GRADIENT OF NON-LINEAR GRAPH AT A
+y = ax2
+Fig. 3.7
+The straight lines on the graph at points a, b and c or the graph in fig. 3.8
+Fig. 3.8
+Fig. 3.9
+Time in minutes 0 1 2 3 4 5 6
+Temperature in °C 45.0 33.0 26.1 21.7 19.1 17.4 16.5
+1 2 3 4 5 6
+Fig 3.10
+4.0 CONCLUSION
+c = intercept on the y-axis when x = 0
+6.0 TUTOR MARKED ASSIGNMENTS
+EXERCISE 1
+Time/s 0 1 2 3 4 5
+Displacement /m 0.0 4.0 12.0 36.0 64.0 100.0
+EXERCISE 2
+Time in seconds 0 1 2 3 4
+Velocity in cm/s 15 29.5 36 38 35
+EXERCISE 3
+Load M/g 25 50 75 100 125
+Period T/s 0.96 1.14 1.28 1.41 1.54
+7.0 REFERENCES AND OTHER RESOURCES
+UNIT 2
+3.1 ERRORS: EXPRESSING THE RESULTS OF MEASUREMENTS
+Fig .3.1
+mark than to the 4.4 cm mark. Therefore, we will also report its length as 4.3
+3.1.1 POSSIBLE ERROR AND PRECISION
+Self Assessment Question 1
+3.1.2 RELATIVE ERROR AND ACCURACY
+Table 1.0
+7.4 s 0.1 s 0.05 s 10.007
+98 s 1 s 0.5 s 0.005
+0.05 s and 0.5 s respectively) but less accurate (relative error 0.007 as
+Self Assessment Question 2
+0.05 5 1
+40 4000 800
+8 800 160
+3.2 SCIENTIFIC NOTATION
+Self Assessment Question 3
+3.3 SIGNIFICANT DIGITS
+Table 2.0
+0.00005 m 0.00001 m 0.000005 m 0.1
+Self Assessment Question 4
+= 0.25
+0.2m
+1. 0.2 m 0.05 m 0.05 m 0.25
+0.2 m
+2. 0.20 m 0.005 m 0.005 m 0.025
+4. 25 m 0.5 m 0.5 m 0.2
+5. 250 m 0.5 m 0.5 m 0.002
+6. 25000 m 0.5 m 0.5 m 0.00002
+7. 102 m 0.5 0.5 m 0.0049
+8. 1002 m 0.5 0.05 m 0.000499
+Self Assessment Question 5
+Self Assessment Question 6
+0.20 m
+3. 0.2000 m 0.00005 m 0.00005 m 0.00025
+1.23
+x 2.3
+2.829
+Self Assessment Question 7
+5.2865 x 3.8 x 19.62
+= 20.0887 x 19.62
+= 394.14029
+5.29 x 3.8 x 19.6
+= 20.1 x 19.6
+= 393.9
+Self Assessment Question 8
+Divide 9.5362 by 3.2
+3.4.2 ADDITION AND SUBTRACTION
+Let us study the process of addition given below: 2.135
+2.135
+x 2.53
+x 1.02
+5.69 so that it contains only one digit containing error. Rounding off is
+Se l f Assessment Question 9
+Subtract 2.11 from 2.1546
+6.0 REFERENCES AND OTHER RESOURCES
+UNIT 3
+3.1.3 RANDOM ERRORS
+Self Assessment Question 1
+3.2 DETERMINING SIZE OF ERROR
+Table 1
+1. 3.69 0.01
+2. 3.67 0.01
+3. 3.68 0.0
+4. 3.69 0.01
+5. 3.68 0.0
+6. 3.69 0.01
+7. 3.66 0.02
+8. 3.67 0.01
+A = 3.68 d = 0.009
+S d 0.009 0.003
+√n √8
+Self Assessment Question 2
+3.3.1 ERROR PROPAGATION IN ADDITION AND SUBTRACTION
+δE = (δx)2 + (δy)2 + (δz )2
+2 2
+1 2
+3.3.2 ERROR PROPAGATION IN MULTIPLICATION AND DIVISION
+Self Assessment Question 3
+E δA 2 + δB 2
+δS = 0.03
+and time is T ± δT = 1.71 ± 0.10
+δT = 0.06
+V = S = 0.368 MS-1
+V δS 2 + δT 2 0.07
+δV = 0.368 ms-1 x 0.07 = 0.02 ms-1
+V ± δV = 0.37 ± 0.02 ms-1
+0.005 kg and M ± δM = 0.384 ± 0.005 kg.
+2 2
+l 2
+l 2 l 2
+1 1 2 2
+Thus error in 2M + 5M is δM = (2δM )2 + (5δM )2
+1 2 1 2
+Error in (M + M )2 = 2 (δM )2 + (δM )2
+1 2 1 2
+Error in (M - M )-3 = 3 (δM )2 + (δM )2
+1 2 1 2
+sin 30° = 0.5, sin 30.5° = 0.508, sin 29.5° = 0.492
+Self Assessment Question 4
+(i) sin 90° = 1.000, sin 90.5° = cos 0.5° = 1.000, sin 89.5° = 1.000
+3.3.4 ERROR PROPAGATION IN GRAPHING
+and the intercept gives the velocity V at T =0. From the graph V = 0.32
+a = Slope = V = 2.35 - 0.40 (ms -1 ) = 0.20 ms -2
+TABLE 2
+N K x 102
+1st 200.00
+2nd 100.00
+3rd 50.00
+4th 25.00
+5th 12.50
+6th 6.25
+7th 3.12
+8th 1.56
+Fig. 3 Graphical representation of Table 2
+N K x 102
+4th 25. 00 3. 398
+5th 12. 00 3.097
+6th 6. 00 2.706
+7th 3. 12 2.494
+8th 1. 00 2.193
+1st 3.301
+2nd 2.000
+3rd 1.699
+4th 1.397
+5th 1.097
+6th 0.796
+7th 0.494
+8th 0.193
+Fig. 4 Graphical representation of Table 3

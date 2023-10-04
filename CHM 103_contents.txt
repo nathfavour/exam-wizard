@@ -1,0 +1,272 @@
+5.0 Working through the Course 41.0 Introduction
+the binary liquids arc concentr tcd upon. Details of the unit> in each of the module arc prov1ded 111
+35.0 Working through this Course
+and the final written examinations First and foremost is the study unit materials that consists of 20
+4 Binary Liquid Solutions 2
+3.0 Units of Physical Quantilies 7
+3.[ Concept of Sl 7
+3.2 Basic Units
+Exercise 1
+83.3 Derived Units
+electrical quantities are also included in Table 1.3
+Velocity Displacement/Time It I metre per ms 1
+Acceleration Change 111 VelocitY/ It 2 metre per second m s 2
+Frequency (Number of "m-es or cycles) l hertz Hz or s· 1
+1- 1 1 1
+Exercise 2
+The dimension of molar mass is mn-1
+Exercise 3
+5.0 Summary
+• The gas constant, R. has dimensions of (energy) (amount of substance)·' (temperaturet 1
+1 1 2
+6 0 References and Other Rcsou rces 50
+3.1 SI Prefixes 14
+3 2 Grammatical Rules for Representing the SI units 15
+3.1 SI Prefixes
+single prefix on the unit gram. Thus to represent JO·' gran1. the S\mbol used is ng and not pkg. For 10
+Exercise 1
+14Exercise 2
+3.2 Grammatical Rules for Representing the Sl units
+: 3 4
+Exercise 3
+nA. = 2 d sm 8
+P=hgp .3.1
+3.3. I Construction of a Unit Factor
+IOOcm=i= ...... 3.2
+3.3.2 Conversion into SI unit
+The conversion of units of h. g and pinto Slunits is represented in Table 2.2
+i 10<kgcm 3
+1.0132x IO'kgm 1 s'I.OI32x 10 5 Pa
+Exercise 4
+7.0 Tutor-Marked Assignment
+u-- m,m2
+1 2
+3.3 Separation Techniques 23
+40 Conclusion 25
+50 Summa > 25
+3.3 Separation Techniques
+Exercise 2
+Exercise 3
+1 0
+Fig. 3.3
+3.2 Boyle's Law 29
+3 3 Charles' Law 31
+4.0 Conclusion 33
+50 Summary 33
+3.1 General Characteristics of Gases
+1 2
+4.0 Conclusion 41
+50 Summaf) 41
+3.2 Boyle's Law
+1 7
+Exe1cise 2
+Exercise 3
+303.3 Charles' Law
+1
+Exercise 4
+I 2
+3
+3.1 An Ideal Gas and its Equation of State
+Example 1
+1.01.> x 10 Nm ·
+V = 8.00 X 10-J 1113
+3.1.1 UnitofR
+1
+R = 8.314 J mol- 1 K- 1
+= 0.08206 L atrn mol-1 K- 1
+Example 2
+1
+0.044
+3
+Example 3
+3
+1
+8.314Jmor K- x300.2K
+2
+5
+Exercise 2
+373.4
+p = ll.llB-I_ .... 3.5
+p = nsRT ............... 3.6
+p = ncRT ..... 3.7
+Pt = (nA + ns + nc) V- = ----y-· ..... 3.8
+11
+p p 3. I 0
+Exa111ple 4
+2.026 x 10'' Pa. What is the number of moles of 0, collected'/ Check Table 2.1 for the vapour
+268 4.21 X 102 338 2.50 X 104
+273 6.1 X 102 343 311Xi04
+313 7.37 X 103 368 8.44 X I04
+318 9.58 X 103 373 8.44xl05
+Example 5
+'"2
+1
+2
+2
+2
+0.50 mole 0,
+Exercise 3
+0.060 m' at 250.2 K. Calculate the total pressure of the mixture of gases and the pa1tial pressure of
+Exercise 4
+3.3 Graham's Law of Effusion
+Exe•·cise 5
+3.2 Postulates ·of the Kinetic Theory of Gases 44
+3 21 Resolution of Molecular VelocJtJcs 44
+3.1 Recapitulation of Graham's Law
+3
+Exercise 1
+Exercise 2
+3.2 Postulates of the Kinetic Theory of Gases
+It is interesting to note that the kinetic theory of gas was first propounded by August Krong in 1 56
+44Fig 3.1: Components of Velocity. 11
+.............3.2
+U-2 == U- _ ,2 . Uy2 + U- z2 ......... 3.3
+u, = (- u-2 - -=--- ·+ - u -; '+ -u ;) 3.4
+• 3
+3.3 Derivation of the Expression for Pressure
+Thus the distance travelled between collisions = I+ I = 21
+Therefore. the change in momentum in one collision is, mu"- (-mu" ) = 2 mu" .....3.5
+.. 3.7
+F = N m rr' I 31 that is m N u1'31
+Therefore, p = F/A = Fl/ 2
+pV = 113 Nm u' ·········· ···· 3.8
+3.4 Ideal Gas Equation
+Or 1/2 mu·l = K T .. 3.10
+pV = NkT 3.12
+\\ rittcn by rsing Eqs 312 and 3. 13
+PV = n, k, T = n RT 3 14
+J 12 :1nd l 14
+A\·Cragc kinetic energy per molecule = l 11 mu: 3/2 k T ... J 15
+3/2 RT (\\here R rs N, k) 3 16
+3.4.2 Calculation of Number Density and Concentration
+Number of density of a gas ( nJ = NIV = p/k T ... 3 17
+Concentration of a gas (c) = n/Y p/RT ... ··········· ... 3.18
+Example 2
+8.3141 mol·' K' x 2'! .2 K
+3
+1.e. mean square speed ( = 3RT/Mm ............... ... . . . ........ 3.19
+Root mean square speed (--iu') = u,,, = --!3RT/Mm ...... 3.20
+49Example 3
+Let us calculate uof methane molecules at 515 K using Eq 3.20
+8.96 x 10' m s- 1
+Exercise 3
+Exercise 4
+3.2 Vander Waals Equation 54
+:1 3 Critical Phenomena and Critical Points 58
+3.1 Deviation from Ideal Gas Behaviour
+z= ..£Y ........................................ 3.1
+I 4
+0.6 ':--: -::!::---,!:::---o:':--
+0 200 400 fiOO 800 0 200 400 600 800
+3.2 Van der Waals Equation
+=V-nb.. (32) Tt1c constant 'b ·has the units. m3 moi- 1
+Dp a. (concentration)2
+V2
+2 3.3
+Pwrr = p + n2a ............... 3.4
+\(1
+·············· .. 3.5
+........3.6
+He 0.003457 23.70 2.20 57.8 5.21
+Ar 0.1373 32.19 48.64 73.3 150.7
+H, 0.02476 26.61 12.97 65.0 33.2
+0.1378 31.83 50.76 78.0 154.8
+N, 0.1408 39.13 33.94 90.1 126.3
+0.3639 42.67 73.66 94.0 304.2
+H 20 0.5536 30.49 220.89 55.3 647.4
+NH 0.4225 37.07 112.5 72.5 405.5
+3
+CH 0.2283 42.78 46.41 99.0 191.1
+4
+(P + RT . . .................................. 3.7
+RT RTVm ......... 3.8
+3.8 will be valid for substances like water vapour for which 'a' is large and 'b· is comparativelv small
+i.e., pVm = RT + pb .......... 3.9
+z=- =I+- RT 3.10
+2
+Vm2
+From Table 4.1, a= 0.2283 Pa m6 mol-2
+b = 42.78 x 10-<> m-' mol" 1
+(5.000 x 10·2m3 - 2.000 mol x 42.78 x 10·6 m3 mo1"1) (5.000 x 10-2 m3 )2
+p- 5.000 x J0·2 m3
+3.4.1 Critical Constants and Van derWaals Constants
+(p + a!V.,2 ) (V.,- b)= RT ············································ 3.11
+V3 . ,- bV.,'+ aV.,/p--ab/p = RTV.,2/p .3.12
+ie., V.,3 - V.,2 (b + RT/p) +alp V.,- ab/p = 0 3.13
+2
+(V.,- Vel 3 = 0 ············· ··············· ... ·············· ......... 3.14
+. .......... 3.16
+-3 V,= -(b + RTJpJ or 3V, = b + RT/p, ......... .3.17
+3V/ =alp, ...... 3.18
+and- V/ = -ab/p, or V,3 = ab/p, .......... 3.19
+v .......... 3.20
+3
+a ............ 3.21
+= 8a 3.22
+3.4.3 Test for Van derWaals Equatioq
+RT, ................. . ........ 3.23
+36
+= 3/8 = 0.375
+Exercise 2
+1.0 IntroductiOn
+64
+li4
+3.1 Liquefaction of Gases
+li4
+65
+3.2.3 Hydrogen Bonding
+4 0 ConclusiOn 71
+5 u s ununaJ'\ 71
+3.2.1 Vander Waals Fot·ces
+Fig. 5.3
+motion. they tend to align themselves so that. on the average. the intermolecular attractions are maximun1
+3.2.2 Total Interaction Ene•-gy
+v E.. +3.. 3.2
+r6
+1 ri2
+0
+2
+3.3 Effect of Molecular Interactions on Physical Properties
+C H 30.1 () 89.7 184.4
+2 6
+CH F 34.0 I 6.17 1312 194.6
+3
+SiH 32.1 0 88 1612
+4
+PH, 34.0 1.93 140 185 3
+H S 34.1 324 1875 212.3
+3 • 2
+Ne 10 270
+Ar 18 87.3
+Kr 36 120.7
+CH" 16 II1.5
+C H 30 184.4
+2 6
+C H, 44 231
+3
+C"H (butane) 5X 272.4
+10
+0
+CH;CH, H-.. 0
+0
+Exercise 2
+3.2.1 Lattice
+0000000000
+3.2.3 Unit Cell
+Exercises 2
+3.3 Bravais Lattices and Crystal Systems
+2
+Hexagonal a=b*c a ={J=y=90o Si0
+2
+4 2
+two face diagonals meet 1s called a face-centre: one of the six face-centres is indicated by M 111
+6
+)/ I 2 .\ ()<_ ::_----,- a- ----'-''Q B 11
+2
+3.3 2 Bravais Lattice
+Exercise 3
+3.3 Nature of Bonds in Solids 86
+40 Conclusion 87
+5.0 Summary 87
+60 References and Other Resources 87
+70 Tutor-Marked Assignment 87
